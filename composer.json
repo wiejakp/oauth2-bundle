@@ -5,6 +5,7 @@
     "keywords": ["oauth2"],
     "homepage": "https://www.trikoder.net/",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Antonio Pauletich",
